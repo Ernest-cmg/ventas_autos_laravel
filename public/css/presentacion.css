@@ -1,0 +1,24 @@
+.contenedor{
+  position: relative;
+    background: url("../images/ventasCelulares.jpg");
+    background-position: center;
+    background-size: contain;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+
+    width: 100vw;
+    height: 550px;
+}
+
+.contenedor_elemento{
+    position: absolute;
+    top: 28%;
+    left: 15%;
+
+}
+
+.contenedor_elemento-texto{
+    font-size: 80px;
+    color: white;
+    font-family: "Arial, Helvetica, sans-serif";
+}
